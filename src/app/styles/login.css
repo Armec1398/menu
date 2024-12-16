@@ -1,0 +1,9 @@
+ [type='checkbox']:focus, [type='radio']:focus{
+    background-color: #f1f5f9;
+}
+[type='checkbox']:checked, [type='radio']:checked,[type='checkbox']:checked:hover,  [type='radio']:checked:hover ,[type='checkbox']:checked:focus,[type='radio']:checked:focus {
+    background-color: #319245;
+    outline: none;
+    border: none;
+    outline-offset: 0;   
+}
